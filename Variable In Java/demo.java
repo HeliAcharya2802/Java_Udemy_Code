@@ -16,7 +16,8 @@ class demo{
 		int result = num1+num2;
 		System.out.println(result);
 
-		
+
+		System.out.println(result);
 		
 	}
 }
